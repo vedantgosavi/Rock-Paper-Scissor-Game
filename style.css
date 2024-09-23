@@ -114,7 +114,7 @@ body {
   cursor: pointer;
 }
 .rock {
-  background-image: url('images/rockbg.png');
+  background-image: url('rockbg.png');
   background-repeat: no-repeat;
   height: 160px;
   width: 160px;
@@ -128,7 +128,7 @@ body {
   top: 47px;
 }
 .scissor {
-  background-image: url('images/Scissorbg.png');
+  background-image: url('Scissorbg.png');
   height: 160px;
   width: 160px;
 
@@ -142,7 +142,7 @@ body {
   top: 50px;
 }
 .paper {
-  background-image: url('images/paperbg.png');
+  background-image: url('paperbg.png');
   background-repeat: no-repeat;
   height: 160px;
   width: 160px;
