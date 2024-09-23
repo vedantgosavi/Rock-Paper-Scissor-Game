@@ -411,7 +411,7 @@ li span {
   top: 47px;
 }
 #scissors {
-  background-image: url('images/Scissorbg.png');
+  background-image: url('Scissorbg.png');
   height: 160px;
   width: 160px;
   cursor: pointer;
